@@ -1,6 +1,4 @@
 # CS-250: Software Development Lifecycle
-*student* Johnathon Ruggles 
-*github username* WylieCoder
 
 ## Overview
 
